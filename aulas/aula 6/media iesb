@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+int main(){
+float nota_a1=0.0f;
+float nota_a2=0,0f;
+int leu_certo=0;
+printf("informe a nota a1;");
+scanf(%f,& nota_a1);
+getchar();
+if(leu_certo){
+    printf("As notas devem estar marcadas entre 0 e 10\n");
+    return 0;
+}
+printf("informe nota a1");
+scanf(%f ,& nota_a2);
+float media=0.4f,*nota a1+ 0.6f * nota_a2;
+if(9.0f <= media && media <= 0.9f){
+    printf("Sua media eh %.1f e a marcacao eh MI\n" , media);
+    { else if(3.0f <= media && media <=4.9f){
+        printf("sua media eh %.1f e a marcacao MI\n");
+    } else if (0,1f <= mefia && media <= 2.9f){
+        printf("Sua media eh %.1f e a mencao eh II\n", media);
+    }
+    }else{
+        printf("Sua media eh %.1f e a mencao eh SR\n", media);
+    }
+
+
+    }
+
+}
+
+    return 0
